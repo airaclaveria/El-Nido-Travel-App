@@ -1,4 +1,4 @@
 # travelapp
 
-A new Flutter project.
+Flutter Project - Travel Booking app made by me from scratch :)
 
